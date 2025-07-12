@@ -1,73 +1,142 @@
-# Welcome to your Lovable project
+# SignalVault
 
-## Project info
+![SignalVault Logo](/lovable-uploads/c501ad47-4fb1-4eef-a6ec-e3091539c885.png)
 
-**URL**: https://lovable.dev/projects/3c17669b-db21-47fb-aa18-dedcf68c830f
+**Enterprise-grade AI system for organizational linguistic analysis and cultural turbulence detection**
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Overview
 
-**Use Lovable**
+SignalVault is a sophisticated AI-powered platform designed to scan, interpret, and visualize hidden patterns within high-velocity organizational communication. By analyzing ambient data from email threads, Slack logs, and meeting transcripts, SignalVault generates resonance heatmaps that reveal the semantic coherence and emotional stability of different organizational units over time.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3c17669b-db21-47fb-aa18-dedcf68c830f) and start prompting.
+Unlike traditional analytics tools, SignalVault operates as a **symbolic stabilizer for organizational cognition** - detecting cultural turbulence early, clearly, and without blame.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Core Capabilities
 
-**Use your preferred IDE**
+### 🧠 Linguistic Coherence Engine
+Models shared symbolic alignment across internal communication channels, tracking how teams maintain consistent messaging and cultural understanding.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 📊 Entropy Monitor  
+Detects rising language fragmentation, passive tone masking, and dissonant framing patterns that indicate organizational stress before it surfaces in performance metrics.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🗺️ Resonance Heatmap Visualizer
+Displays real-time organizational health through intuitive thermal visualizations showing areas of high and low symbolic coherence across teams, time periods, and project zones.
 
-Follow these steps:
+### ⚠️ Semantic Warning System
+Issues early alerts when emotional or mission alignment degrades, providing leadership with predictive insights into organizational stability.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### 📈 Interpretive Dashboard
+Context-aware insights designed for executive decision-making - not raw metrics, but narrative-driven intelligence that helps leadership understand the internal symbolic state of their organization.
+
+## Key Features
+
+- **Zero Individual Tracking**: Analyzes organizational patterns while maintaining complete user anonymization
+- **Real-time Processing**: Monitors communication streams continuously for immediate pattern detection
+- **Enterprise Security**: Full data encryption and secure processing pipelines
+- **Executive Interface**: Clean, interpretive UI designed for non-technical leadership teams
+- **Scalable Architecture**: Built for high-pressure, high-scale enterprise environments
+
+## Technology Stack
+
+- **Frontend**: React 18, TypeScript, Tailwind CSS
+- **UI Components**: Shadcn/ui component library
+- **Data Visualization**: Custom heatmap and coherence visualization components
+- **State Management**: TanStack Query for data fetching and caching
+- **Routing**: React Router for navigation
+- **Styling**: CSS3 with advanced gradients and animations
+
+## Getting Started
+
+### Prerequisites
+- Node.js 18+ and npm
+- Modern web browser with JavaScript enabled
+
+### Installation
+
+1. Clone the repository:
+```bash
 git clone <YOUR_GIT_URL>
+cd signal-forge-pulse
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Install dependencies:
+```bash
+npm install
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3. Start the development server:
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+4. Open your browser to `http://localhost:5173`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Core Analysis Metrics
 
-**Use GitHub Codespaces**
+SignalVault tracks several proprietary linguistic indicators:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Metaphor Density**: Frequency and consistency of symbolic language usage
+- **Pronoun Distribution**: Shifts between collective vs. individual language patterns  
+- **Modal Compression**: Changes in certainty and commitment language
+- **Sentiment Entropy**: Emotional coherence across communication streams
+- **Narrative Disruption**: Breaks in organizational storytelling consistency
 
-## What technologies are used for this project?
+## Security & Privacy
 
-This project is built with:
+- **Complete Anonymization**: No individual user data is stored or tracked
+- **Organizational Focus**: Analysis operates at team/department/company levels only
+- **Secure Processing**: All linguistic analysis happens in encrypted, isolated environments
+- **Data Retention**: Configurable retention policies with automatic purging
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Use Cases
 
-## How can I deploy this project?
+- **Cultural Health Monitoring**: Early detection of team misalignment or mission drift
+- **Merger Integration**: Tracking linguistic coherence during organizational changes
+- **Remote Work Optimization**: Understanding communication patterns in distributed teams
+- **Leadership Insights**: Providing executives with cultural intelligence for decision-making
+- **Change Management**: Monitoring organizational adaptation during transformations
 
-Simply open [Lovable](https://lovable.dev/projects/3c17669b-db21-47fb-aa18-dedcf68c830f) and click on Share -> Publish.
+## Dashboard Components
 
-## Can I connect a custom domain to my Lovable project?
+### Executive Overview
+High-level organizational health metrics and trend analysis
 
-Yes, you can!
+### Coherence Engine
+Team-by-team symbolic alignment tracking with confidence intervals
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Entropy Monitor
+Real-time fragmentation detection with severity classification
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+### Resonance Heatmaps
+Visual representation of communication coherence across organizational structures
+
+### Warning System
+Predictive alerts for cultural turbulence with recommended interventions
+
+## Technical Architecture
+
+SignalVault processes organizational communication through:
+
+1. **Data Ingestion**: Secure collection from multiple communication channels
+2. **Linguistic Processing**: Advanced NLP analysis with anonymization layers
+3. **Pattern Recognition**: Machine learning models trained on organizational communication patterns
+4. **Visualization Engine**: Real-time rendering of complex linguistic data
+5. **Alert System**: Intelligent notification system for emerging patterns
+
+## Contributing
+
+This is a proprietary enterprise system. For feature requests or technical support, please contact your designated SignalVault administrator.
+
+## Support
+
+For technical issues or questions:
+- Internal Documentation: Available through your organization's SignalVault portal
+- Executive Training: Specialized onboarding for leadership teams
+- Technical Support: 24/7 enterprise support available
+
+---
+
+**SignalVault** - *The missing sense for detecting cultural turbulence*
+
+*Built for organizations that need to understand their internal symbolic state in real-time.*
