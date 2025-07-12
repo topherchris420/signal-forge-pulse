@@ -1,6 +1,6 @@
 # SignalVault
 
-![SignalVault Logo](/lovable-uploads/c501ad47-4fb1-4eef-a6ec-e3091539c885.png)
+![SignalVault Logo](/20250710_2244_Cozy Nightclub Selfie_simple_compose_01jzvntwpne66vyysg0zmxezsf_1_1.jpg)
 
 **Enterprise-grade AI system for organizational linguistic analysis and cultural turbulence detection**
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-SignalVault is a sophisticated AI-powered platform designed to scan, interpret, and visualize hidden patterns within high-velocity organizational communication. By analyzing ambient data from email threads, Slack logs, and meeting transcripts, SignalVault generates resonance heatmaps that reveal the semantic coherence and emotional stability of different organizational units over time.
+SignalVault is an AI-powered platform designed to scan, interpret, and visualize hidden patterns within high-velocity organizational communication. By analyzing ambient data from email threads, Slack logs, and meeting transcripts, SignalVault generates resonance heatmaps that reveal the semantic coherence and emotional stability of different organizational units over time.
 
 Unlike traditional analytics tools, SignalVault operates as a **symbolic stabilizer for organizational cognition** - detecting cultural turbulence early, clearly, and without blame.
 
