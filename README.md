@@ -54,7 +54,7 @@ Context-aware insights designed for executive decision-making - not raw metrics,
 
 1. Clone the repository:
 ```bash
-git clone <YOUR_GIT_URL>
+git clone topherchris420/signal-forge-pulse
 cd signal-forge-pulse
 ```
 
