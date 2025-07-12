@@ -1,6 +1,6 @@
 # SignalVault
 
-![SignalVault Logo](/20250710_2244_Cozy Nightclub Selfie_simple_compose_01jzvntwpne66vyysg0zmxezsf_1_1.jpg)
+![SignalVault Logo](20250710_2244_Cozy Nightclub Selfie_simple_compose_01jzvntwpne66vyysg0zmxezsf_1_1.jpg)
 
 **Enterprise-grade AI system for organizational linguistic analysis and cultural turbulence detection**
 
