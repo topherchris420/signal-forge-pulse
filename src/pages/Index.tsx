@@ -2,6 +2,11 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { DataSourceManager } from "@/components/integration/DataSourceManager"
+import { TemporalDriftTracker } from "@/components/analysis/TemporalDriftTracker"
+import { MissionResonanceIndex } from "@/components/analysis/MissionResonanceIndex"
+import { NarrativeStabilizationToolkit } from "@/components/stabilization/NarrativeStabilizationToolkit"
 import { 
   Brain, 
   TrendingUp, 
@@ -12,7 +17,10 @@ import {
   BarChart3,
   Zap,
   CheckCircle,
-  Clock
+  Clock,
+  Database,
+  Target,
+  Sparkles
 } from "lucide-react"
 
 const Index = () => {
