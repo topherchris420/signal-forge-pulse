@@ -1,4 +1,4 @@
-# SignalVault
+# SignalVault by Vers3Dynamics
 
 **Enterprise-grade AI system for organizational linguistic analysis and cultural turbulence detection**
 
